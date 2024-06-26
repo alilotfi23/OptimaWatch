@@ -42,5 +42,3 @@ Below is a screenshot demonstrating the application in use:
 ## Exiting the Application
 
 To exit the application, navigate to the "Exit" button using the arrow keys and press Enter, or simply close the terminal window.
-
----
