@@ -29,7 +29,7 @@ pip install npyscreen psutil
 To start the application, run the script from the terminal:
 
 ```bash
-python OptimaWatch.py
+python optimawatch.py
 ```
 
 ## Screenshot
