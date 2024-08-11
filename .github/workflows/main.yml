@@ -18,6 +18,10 @@ jobs:
         with:
           python-version: '3.11'  # Specify the Python version you are using
 
+      - name: Install dependencies
+        run: pip install npyscreen psutil
+
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
